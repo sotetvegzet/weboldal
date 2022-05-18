@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(248, 97, 97);
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgb(253, 5, 5);
+}
+  
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a.active {
+    color: white;
+}
+
+.logo{
+    height: 80px;
+    float: left;
+
+  }
+
+.btn btn-primary btn-lg{
+    background-color: #000;
+}
+
+#kozep{
+ text-align: center;
+ border-radius: 5px;
+}
+
+.cim1{
+    color: seashell; 
+}
+
+#inputok{
+    width: 20em;
+}
+
+#inputok2{
+    width: 40em;
+}
+
+#inputok3{
+    width: 10em;
+}
